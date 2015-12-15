@@ -6,7 +6,7 @@ body{
 }
 
 
-// Declarando as Variáveis 
+// Declarando as Variáveis LESS
 
 @cor:#000000;
 @cor2: #8B0000;
@@ -16,7 +16,7 @@ body{
 @tamanho: 30px;
 
 
-// Usando as Variáveis 
+// Usando as Variáveis LESS
 
 h2{
 	
@@ -31,7 +31,7 @@ p{
 	text-align: center;
 }
 
-// Mixins
+// Mixins LESS
 
 .radius(@corner: 5px){
 	border-radius: @corner;
@@ -50,7 +50,7 @@ h3{
 
 }
 
-// regras de aninhamentos
+// regras de aninhamentos LESS
 
 .menu{
 	width: 18%;
@@ -123,7 +123,7 @@ h3{
 	
 	}
 	
-// recurso import
+// recurso import LESS
 
 .dir_inf {
 	@import 'importacao.less';
@@ -137,7 +137,7 @@ h3{
 	margin: 1%;
 	
 }
-// funções de cores
+// funções de cores LESS
 .dir_topo{
 	height:33%;
 	border: 1px solid #F00;	
@@ -150,7 +150,7 @@ h3{
 		}
 	}
 
-// diretiva extend
+// diretiva extend LESS
 
 .valor{
 		font-size: 15px;
@@ -169,6 +169,7 @@ h3{
 	height:33%;
 	border: 1px solid #309;
 }
+
 
 
 
