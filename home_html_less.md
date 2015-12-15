@@ -1,4 +1,3 @@
-# estudo-de-caso
 <html>
 <head>
 	<meta charset="utf-8">
@@ -11,7 +10,7 @@
 		<div class="container">
 			<div class="cabecalho">      
 			<img src="../imagens/logo.png" />
-			<img src="../imagens/sass-logo-200x150 logo.png"   />
+			<!--<img src="../imagens/sass-logo-200x150 logo.png"   />-->
    			
 			</div>
 			
