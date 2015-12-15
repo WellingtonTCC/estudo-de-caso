@@ -61,8 +61,40 @@ body {
         .menu ul li a:active {
           background: green; }
 
-
-
+/*
+.menu {
+	width: 18%;
+	height: 70%;
+	border: 2px solid blue;
+	float: left;
+	margin: 1%;
+	background:url(../imagens/azul1.png) repeat-y;
+	
+}
+.menu ul{
+	text-decoration:none;
+	color:#F00;
+	font: "trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 1.3em;
+	list-style:none;
+	
+	
+}
+.menu ul li {
+	
+	padding-top: 10px;
+	margin: 0px 5px 5px 0px;
+	
+}
+.menu ul li  a {
+	text-decoration:none;
+	color: #000000;
+}
+.menu ul li  a:hover {
+	font-size: 1.5em;
+	color: #C00;
+}
+*/
 .dir_sup, .esq_sup {
   font-size: 15px;
   font-family: arial;
